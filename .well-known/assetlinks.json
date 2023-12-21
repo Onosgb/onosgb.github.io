@@ -1,1 +1,12 @@
-[]
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.example.orent",
+      "sha256_cert_fingerprints": [
+        "4e392b5eba997df356ca6021f28431ce1cfeb16758699553a94b13add874a3bb"
+      ]
+    }
+  }
+]
